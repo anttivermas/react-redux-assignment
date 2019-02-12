@@ -1,17 +1,23 @@
-# React Redux Assignement
+# React Redux Assignment
 
 ### Prerequisites
 
-Install Node version 10.15.0
+Install Node version >10.15.0
 
-### Installation
+### Getting started
 
-### `npm i`
-To get the dependencies
+Install dependencies
 
-### `npm start`
-To run the app 
+```zsh
+npm i
+```
+
+Start the app in local developent mode
+
+```zsh
+npm start
+```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
+The page will reload when you make edits.<br>
